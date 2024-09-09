@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-22">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/auto-service-annotations-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/auto-service-annotations-1.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/batik-anim-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/batik-awt-util-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/batik-bridge-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/batik-codec-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/batik-constants-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/batik-css-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/batik-dom-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/batik-ext-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/batik-gvt-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/batik-i18n-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/batik-parser-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/batik-script-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/batik-shared-resources-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/batik-svg-dom-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/batik-svggen-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/batik-svgrasterizer-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/batik-transcoder-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/batik-util-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/batik-xml-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/bcpkix-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/bcprov-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/bcutil-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/byte-buddy-1.14.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/byte-buddy-1.14.18-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/checker-qual-3.42.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/checker-qual-3.42.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/commons-exec-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/commons-exec-1.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/curvesapi-1.07.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/error_prone_annotations-2.27.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/error_prone_annotations-2.27.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/failsafe-3.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/failsafe-3.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/failureaccess-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/failureaccess-1.0.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/fontbox-2.0.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/graphics2d-0.40.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/guava-33.2.1-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/guava-33.2.1-jre-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/j2objc-annotations-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/j2objc-annotations-3.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/jakarta.activation-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/jakarta.xml.bind-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/jsr305-3.0.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/log4j-api-2.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/opentelemetry-api-1.40.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/opentelemetry-api-1.40.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/opentelemetry-api-incubator-1.40.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/opentelemetry-api-incubator-1.40.0-alpha-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/opentelemetry-context-1.40.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/opentelemetry-context-1.40.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/opentelemetry-exporter-logging-1.40.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/opentelemetry-exporter-logging-1.40.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/opentelemetry-sdk-1.40.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/opentelemetry-sdk-1.40.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/opentelemetry-sdk-common-1.40.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/opentelemetry-sdk-common-1.40.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/opentelemetry-sdk-extension-autoconfigure-1.40.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/opentelemetry-sdk-extension-autoconfigure-1.40.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/opentelemetry-sdk-extension-autoconfigure-spi-1.40.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/opentelemetry-sdk-extension-autoconfigure-spi-1.40.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/opentelemetry-sdk-logs-1.40.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/opentelemetry-sdk-logs-1.40.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/opentelemetry-sdk-metrics-1.40.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/opentelemetry-sdk-metrics-1.40.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/opentelemetry-sdk-trace-1.40.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/opentelemetry-sdk-trace-1.40.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/opentelemetry-semconv-1.25.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/opentelemetry-semconv-1.25.0-alpha-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/pdfbox-2.0.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/poi-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/poi-examples-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/poi-excelant-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/poi-javadoc-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/poi-ooxml-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/poi-ooxml-full-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/poi-ooxml-lite-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/poi-scratchpad-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-api-4.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-api-4.23.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-chrome-driver-4.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-chrome-driver-4.23.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-chromium-driver-4.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-chromium-driver-4.23.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-devtools-v85-4.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-devtools-v85-4.23.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-devtools-v125-4.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-devtools-v125-4.23.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-devtools-v126-4.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-devtools-v126-4.23.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-devtools-v127-4.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-devtools-v127-4.23.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-edge-driver-4.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-edge-driver-4.23.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-firefox-driver-4.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-firefox-driver-4.23.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-http-4.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-http-4.23.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-ie-driver-4.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-ie-driver-4.23.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-java-4.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-java-4.23.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-json-4.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-json-4.23.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-manager-4.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-manager-4.23.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-os-4.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-os-4.23.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-remote-driver-4.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-remote-driver-4.23.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-safari-driver-4.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-safari-driver-4.23.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-support-4.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/selenium-support-4.23.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/xmlbeans-5.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/xmlgraphics-commons-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/All jars File are here/xmlsec-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/auto-service-annotations-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/auto-service-annotations-1.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/byte-buddy-1.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/byte-buddy-1.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/checker-qual-3.43.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/checker-qual-3.43.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/commons-exec-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/commons-exec-1.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/error_prone_annotations-2.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/error_prone_annotations-2.28.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/failsafe-3.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/failsafe-3.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/failureaccess-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/failureaccess-1.0.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/guava-33.3.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/guava-33.3.0-jre-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/j2objc-annotations-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/j2objc-annotations-3.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/jspecify-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/jspecify-1.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/jsr305-3.0.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/opentelemetry-api-1.41.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/opentelemetry-api-1.41.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/opentelemetry-api-incubator-1.41.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/opentelemetry-api-incubator-1.41.0-alpha-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/opentelemetry-context-1.41.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/opentelemetry-context-1.41.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/opentelemetry-exporter-logging-1.41.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/opentelemetry-exporter-logging-1.41.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/opentelemetry-sdk-1.41.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/opentelemetry-sdk-1.41.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/opentelemetry-sdk-common-1.41.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/opentelemetry-sdk-common-1.41.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/opentelemetry-sdk-extension-autoconfigure-1.41.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/opentelemetry-sdk-extension-autoconfigure-1.41.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/opentelemetry-sdk-extension-autoconfigure-spi-1.41.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/opentelemetry-sdk-extension-autoconfigure-spi-1.41.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/opentelemetry-sdk-logs-1.41.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/opentelemetry-sdk-logs-1.41.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/opentelemetry-sdk-metrics-1.41.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/opentelemetry-sdk-metrics-1.41.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/opentelemetry-sdk-trace-1.41.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/opentelemetry-sdk-trace-1.41.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/opentelemetry-semconv-1.25.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/opentelemetry-semconv-1.25.0-alpha-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-api-4.24.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-api-4.24.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-chrome-driver-4.24.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-chrome-driver-4.24.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-chromium-driver-4.24.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-chromium-driver-4.24.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-devtools-v85-4.24.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-devtools-v85-4.24.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-devtools-v126-4.24.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-devtools-v126-4.24.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-devtools-v127-4.24.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-devtools-v127-4.24.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-devtools-v128-4.24.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-devtools-v128-4.24.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-edge-driver-4.24.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-edge-driver-4.24.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-firefox-driver-4.24.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-firefox-driver-4.24.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-http-4.24.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-http-4.24.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-ie-driver-4.24.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-ie-driver-4.24.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-java-4.24.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-java-4.24.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-json-4.24.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-json-4.24.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-manager-4.24.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-manager-4.24.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-os-4.24.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-os-4.24.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-remote-driver-4.24.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-remote-driver-4.24.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-safari-driver-4.24.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-safari-driver-4.24.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-support-4.24.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sande/Desktop/2. Selenium Automation/selenium-java-4.24.0 new updated version jar files/selenium-support-4.24.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
