@@ -4,7 +4,7 @@ public class I_MainClass {
 	
 	public static void main(String[] args) throws InterruptedException {
 		
-	/*	III_HomePage ref1=new III_HomePage();
+	III_HomePage ref1=new III_HomePage();
 		
 		ref1.getPageTitle();
 		ref1.logoDisplay();
@@ -40,22 +40,22 @@ public class I_MainClass {
 		ref3.productFilter("za");
 		ref3.productFilter("lohi");
 		ref3.productFilter("hilo");
-	*/
+	
 		
-	/*	VI_ValidateAddToCart ref4=new VI_ValidateAddToCart();
+		VI_ValidateAddToCart ref4=new VI_ValidateAddToCart();
 		ref4.addProduct();
 		ref4.removeProduct();
 		ref4.removeProductFromCart();
 		ref4.validateCartBadgeCount();
-	*/
+	
 		
 		VII_CheckoutProduct ref5=new VII_CheckoutProduct();
-		/*
+		
 		ref5.checkoutProduct(" ", " ", " ");
 		ref5.checkoutProduct("Sandeep ", " ", " ");
 		ref5.checkoutProduct("Sandeep ", "Saroj ", " ");
 		ref5.checkoutProduct("Sandeep ", "Saroj ", "401209 ");
-	*/	
+	
 		ref5.productCheckout();
 		
 		
